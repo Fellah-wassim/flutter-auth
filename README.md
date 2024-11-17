@@ -8,10 +8,7 @@ This Flutter project implements user authentication (login and signup) using **F
 - [Installation](#installation)
 - [Firebase Setup](#firebase-setup)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **User Signup**: New users can create an account using their email and password.

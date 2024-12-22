@@ -15,7 +15,7 @@ Future main() async {
         options: const FirebaseOptions(
           apiKey: "here your api key",
           appId: "here your api id",
-          messagingSenderId: "492567919766",
+          messagingSenderId: "senderid",
           projectId: "fir-flutter-9f89e",
         ),
       );
